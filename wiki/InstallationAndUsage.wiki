@@ -3,11 +3,11 @@
 
 = Install =
 
-* Download ListeningNowTracker-XXX.zip archive file (see Downloads tag page)
-* Unzip the archive file to, for example, c:\program files\ListeningNowTracker\ folder
-* Start Spotify and Skype as usual
-* Start "ListeningNowTracker.exe" application and start playing music in Spotify.
-* Read README.TXT file for more information
+- Download ListeningNowTracker-XXX.zip archive file (see Downloads tag page)
+- Unzip the archive file to, for example, c:\program files\ListeningNowTracker\ folder
+- Start Spotify and Skype as usual
+- Start "ListeningNowTracker.exe" application and start playing music in Spotify.
+- Read README.TXT file for more information
 
 Note! When this application tries to update the song title for the first time in Skype, it may throw a warning message about external application using Skype. You have to go to Skype application and press "approve" button. See Skype and external application support for more information.
 
