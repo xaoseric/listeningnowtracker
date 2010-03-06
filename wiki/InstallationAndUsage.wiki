@@ -17,7 +17,9 @@ You should see a small tray icon on the toolbar when this application is running
 
 The application is WindowsXP, Windows Vista and Windows 7 compatible (32-bit application, but works in 64-bit Windows also in 32-bit compatible mode). 
 
+Please read [http://code.google.com/p/listeningnowtracker/source/browse/trunk/ListeningNowTracker/README.TXT README.TXT] file for more information.
  
+
 = Source code =
 
 There is also source code version available if you wanna modify or compile the application yourself (or just to see how it works).
