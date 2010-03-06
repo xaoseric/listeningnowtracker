@@ -3,11 +3,11 @@
 
 = Install =
 
-- Download ListeningNowTracker-XXX.zip archive file (see Downloads tag page)
-- Unzip the archive file to, for example, c:\program files\ListeningNowTracker\ folder
-- Start Spotify and Skype as usual
-- Start "ListeningNowTracker.exe" application and start playing music in Spotify.
-- Read README.TXT file for more information
+  * Download ListeningNowTracker-XXX.zip archive file (see Downloads tag page)
+  * Unzip the archive file to, for example, c:\program files\ListeningNowTracker\ folder
+  * Start Spotify and Skype as usual
+  * Start "ListeningNowTracker.exe" application and start playing music in Spotify.
+  * Read README.TXT file for more information
 
 Note! When this application tries to update the song title for the first time in Skype, it may throw a warning message about external application using Skype. You have to go to Skype application and press "approve" button. See Skype and external application support for more information.
 
@@ -20,8 +20,8 @@ The application is WindowsXP, Windows Vista and Windows 7 compatible (32-bit app
 
 There is also source code version available if you wanna modify or compile the application yourself (or just to see how it works).
  
-* Checkout sources with Subversion tool (see Source tab page)
-* Use your favourite Windows Win32 C/C++ compiler to compile it (you have to create the Makefile for your own compiler if you are not using Microsoft Visual C++)
+  * Checkout sources with Subversion tool (see Source tab page)
+  * Use your favourite Windows Win32 C/C++ compiler to compile it (you have to create the Makefile for your own compiler if you are not using Microsoft Visual C++)
  
 Compilation of the pre-built binary version available here is made with "Microsoft Visual C++ 2005 Express Edition", so that or newer version of Visual C++ environment should work out of the box (as long it has Win32 libraries and not just .NET libraries. This application doesn't use .NET).
  
