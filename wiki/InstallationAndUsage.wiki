@@ -28,8 +28,8 @@ There is also source code version available if you wanna modify or compile the a
 Compilation of the pre-built binary version available here is made with "Microsoft Visual C++ 2005 Express Edition", so that or newer version of Visual C++ environment should work out of the box (as long it has Win32 libraries and not just .NET libraries. This application doesn't use .NET).
  
 See following web pages for more information about Microsoft's Visual C++ Express Edition (free tools at least for non-commercial usage)
-* Official Microsoft site http://www.microsoft.com/express/
-* Semi-official Wikipedia page http://en.wikipedia.org/wiki/Microsoft_Visual_Studio_Express
-* Unofficial http://www.codeproject.com/KB/applications/FreeVS2005Win32.aspx web site about how to tweak the VC++ 2005 Express Edition (does not apply to newer versions of VC++)
+  * Official Microsoft site http://www.microsoft.com/express/
+  * Semi-official Wikipedia page http://en.wikipedia.org/wiki/Microsoft_Visual_Studio_Express
+  * Unofficial http://www.codeproject.com/KB/applications/FreeVS2005Win32.aspx web site about how to tweak the VC++ 2005 Express Edition (does not apply to newer versions of VC++)
  
 Note! If you just wanna use the application then you can download the pre-compiled binary version from "Downloads" tab page, so you don't have to compile it unless you really want to.
