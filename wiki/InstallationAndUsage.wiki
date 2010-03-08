@@ -1,5 +1,5 @@
 #summary Installation and Usage of ListeningNowTracker application
-#labels Phase-Deploy
+#labels Phase-Deploy,Featured
 
 = Install =
 
