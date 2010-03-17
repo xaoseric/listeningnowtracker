@@ -110,7 +110,7 @@ class CThreadContext
 class CThread
 {
 	protected:
-		CThread::CThreadContext		m_ThreadCtx;	//	Thread Context member
+		CThreadContext		m_ThreadCtx;	//	Thread Context member
 		LPTHREAD_START_ROUTINE_CRT	m_pThreadFunc;	//	Worker Thread Function Pointer
 
 	public:
